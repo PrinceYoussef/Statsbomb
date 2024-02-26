@@ -30,6 +30,8 @@ fwcevents_shot <- allevents %>%
 # rbind?
 samlet_fwc <- rbind(fwcevents_pass,fwcevents_shot)
 
+# test
+print("Hej")
 
 
 
